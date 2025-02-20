@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99356bf5.css",
+    "main.js": "/static/js/main.8bc5871c.js",
+    "static/media/woman_embers.jpeg": "/static/media/woman_embers.03587f47bd8a3918a651.jpeg",
+    "static/media/flaming_man.jpeg": "/static/media/flaming_man.bcd09fe41fecb8df0798.jpeg",
+    "static/media/logo-white.png": "/static/media/logo-white.5bbf918a327f0f2bcab5.png",
+    "index.html": "/index.html",
+    "main.99356bf5.css.map": "/static/css/main.99356bf5.css.map",
+    "main.8bc5871c.js.map": "/static/js/main.8bc5871c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99356bf5.css",
+    "static/js/main.8bc5871c.js"
+  ]
+}
